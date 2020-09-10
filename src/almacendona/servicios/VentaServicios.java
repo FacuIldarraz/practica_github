@@ -9,6 +9,6 @@ package almacendona.servicios;
  *
  * @author windows7
  */
-public class DespuesEliminarServicio {
+public class VentaServicios {
     
 }
