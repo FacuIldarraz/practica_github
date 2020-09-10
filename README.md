@@ -10,3 +10,7 @@ Facu Ildarraz
 git add -A
 git commit -m "Arregle nombres" git pull
 git push
+Marielita
+git add -A
+git commit -m "Primer tarea Marie" git pull
+git push
