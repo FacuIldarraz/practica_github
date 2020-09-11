@@ -6,6 +6,7 @@ public class Existencias {
     private Producto producto;
     private Integer precio;
     private Integer cantidad;
+    private String pruebaLogin;
 
     public Existencias() {
     }
